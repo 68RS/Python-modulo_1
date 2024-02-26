@@ -11,4 +11,4 @@ else:
 
 mensagem = "Pode tirar a CNH" if idade >= 18 else "Voce nao pode tirar CNH"
 print(mensagem)
-18188
+
